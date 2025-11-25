@@ -1,0 +1,103 @@
+PHYSICS: ELECTRICITY AND MAGNETISM
+
+INTRODUCTION TO ELECTRICITY
+
+Electricity is a form of energy resulting from the movement of charged particles, such as electrons. It is a fundamental force of nature that powers our modern world, from lighting our homes to powering our computers and communication devices.
+
+Electric charge is a fundamental property of matter. There are two types of electric charge: positive and negative. Like charges repel each other, while opposite charges attract. The SI unit of electric charge is the coulomb (C).
+
+ELECTRIC CURRENT
+
+Electric current is the flow of electric charge through a conductor. It is measured in amperes (A), where 1 ampere = 1 coulomb per second.
+
+Current (I) = Charge (Q) / Time (t)
+
+There are two types of electric current:
+1. Direct Current (DC): Current flows in one direction only
+2. Alternating Current (AC): Current changes direction periodically
+
+ELECTRIC POTENTIAL DIFFERENCE (VOLTAGE)
+
+Electric potential difference, or voltage, is the work done per unit charge to move a charge between two points in an electric field. It is measured in volts (V).
+
+Voltage (V) = Work Done (W) / Charge (Q)
+
+OHM'S LAW
+
+Ohm's law states that the current through a conductor between two points is directly proportional to the voltage across the two points, provided the temperature remains constant.
+
+V = I × R
+
+Where:
+- V = voltage (volts)
+- I = current (amperes)
+- R = resistance (ohms)
+
+RESISTANCE
+
+Resistance is the opposition to the flow of electric current. It depends on:
+1. Length of the conductor (longer = more resistance)
+2. Cross-sectional area (thicker = less resistance)
+3. Material (some materials conduct better than others)
+4. Temperature (resistance usually increases with temperature)
+
+ELECTRIC CIRCUITS
+
+An electric circuit is a closed loop through which electric current can flow. There are two main types:
+
+Series Circuit:
+- Components connected end-to-end
+- Same current flows through all components
+- Total resistance = sum of individual resistances
+- Total voltage = sum of individual voltages
+
+Parallel Circuit:
+- Components connected across common points
+- Same voltage across all components
+- Total current = sum of individual currents
+- Total resistance decreases as more components are added
+
+MAGNETISM
+
+Magnetism is a force associated with magnetic fields and moving electric charges. A magnetic field is the region around a magnet where magnetic forces can be detected.
+
+Magnetic fields are produced by:
+1. Permanent magnets
+2. Electromagnets (coils of wire carrying current)
+3. Moving charges
+
+ELECTROMAGNETIC INDUCTION
+
+Electromagnetic induction is the production of electric current by varying magnetic fields. This principle is used in:
+- Electric generators
+- Transformers
+- Induction cookers
+
+Faraday's law states that the induced electromotive force (EMF) is equal to the rate of change of magnetic flux.
+
+TRANSFORMERS
+
+Transformers are devices that can change the voltage of an alternating current. They work on the principle of electromagnetic induction.
+
+For an ideal transformer:
+Vp/Vs = Np/Ns = Is/Ip
+
+Where:
+- Vp = primary voltage
+- Vs = secondary voltage
+- Np = number of primary turns
+- Ns = number of secondary turns
+- Is = secondary current
+- Ip = primary current
+
+EXAM TIPS
+
+When answering electricity and magnetism questions:
+1. Always use the correct units (V, A, Ω, C, T, etc.)
+2. Show your working clearly for calculations
+3. Draw circuit diagrams with correct symbols
+4. Remember the difference between series and parallel circuits
+5. Use Ohm's law and the power equation appropriately
+6. Understand the relationship between electricity and magnetism
+7. Practice drawing magnetic field patterns
+8. Remember the right-hand rule for magnetic fields around wires

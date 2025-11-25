@@ -1,0 +1,128 @@
+ATOMIC STRUCTURE AND THE PERIODIC TABLE
+
+INTRODUCTION TO ATOMS
+
+An atom is the smallest unit of matter that retains the properties of an element. Atoms are incredibly small - approximately 0.1 nanometers in diameter. Despite their tiny size, atoms are composed of even smaller subatomic particles: protons, neutrons, and electrons.
+
+The structure of an atom consists of a central nucleus containing protons and neutrons, surrounded by electrons that orbit in shells or energy levels. This model, known as the nuclear model of the atom, was developed through the work of several scientists including Ernest Rutherford, Niels Bohr, and James Chadwick.
+
+SUBATOMIC PARTICLES
+
+Protons are positively charged particles found in the nucleus of an atom. Each proton has a relative mass of 1 and a charge of +1. The number of protons in an atom determines which element it is - this is called the atomic number (Z). For example, all carbon atoms have 6 protons, all oxygen atoms have 8 protons, and all gold atoms have 79 protons.
+
+Neutrons are neutral particles (no charge) also found in the nucleus. Like protons, neutrons have a relative mass of 1. The number of neutrons can vary in atoms of the same element, creating different isotopes. Neutrons play a crucial role in holding the nucleus together, as they help overcome the repulsive forces between positively charged protons.
+
+Electrons are negatively charged particles that orbit the nucleus in shells or energy levels. Electrons have a negligible mass (approximately 1/2000th the mass of a proton) and a charge of -1. In a neutral atom, the number of electrons equals the number of protons, so the overall charge is zero. Electrons are responsible for chemical bonding and the chemical properties of elements.
+
+ATOMIC NUMBER AND MASS NUMBER
+
+The atomic number (Z) is the number of protons in an atom's nucleus. This number is unique to each element and determines the element's identity. The atomic number is shown as a subscript before the element symbol. For example, carbon is written as ₆C, indicating it has 6 protons.
+
+The mass number (A) is the total number of protons and neutrons in an atom's nucleus. It is shown as a superscript before the element symbol. For example, carbon-12 is written as ¹²C, meaning it has 12 particles in its nucleus (6 protons + 6 neutrons).
+
+To calculate the number of neutrons in an atom, subtract the atomic number from the mass number: Number of neutrons = Mass number - Atomic number (N = A - Z)
+
+ISOTOPES
+
+Isotopes are atoms of the same element that have different numbers of neutrons. This means they have the same atomic number but different mass numbers. For example, carbon has three naturally occurring isotopes: carbon-12 (6 protons, 6 neutrons), carbon-13 (6 protons, 7 neutrons), and carbon-14 (6 protons, 8 neutrons).
+
+Most elements exist as a mixture of isotopes. The relative atomic mass of an element is the weighted average mass of all its isotopes, taking into account their natural abundance. This is why relative atomic masses are often not whole numbers - for example, chlorine has a relative atomic mass of 35.5 because it exists as approximately 75% chlorine-35 and 25% chlorine-37.
+
+Some isotopes are radioactive, meaning their nuclei are unstable and decay over time, emitting radiation. Carbon-14 is a radioactive isotope used in radiocarbon dating to determine the age of ancient artifacts.
+
+ELECTRON CONFIGURATION
+
+Electrons occupy specific energy levels or shells around the nucleus. These shells are numbered 1, 2, 3, and so on, starting from the shell closest to the nucleus. Each shell can hold a maximum number of electrons:
+- First shell (n=1): maximum 2 electrons
+- Second shell (n=2): maximum 8 electrons
+- Third shell (n=3): maximum 18 electrons
+- Fourth shell (n=4): maximum 32 electrons
+
+However, for the first 20 elements, the third shell only fills to 8 electrons before the fourth shell starts to fill.
+
+The electron configuration of an atom shows how electrons are distributed among the shells. For example:
+- Hydrogen (1 electron): 1
+- Carbon (6 electrons): 2,4
+- Oxygen (8 electrons): 2,6
+- Sodium (11 electrons): 2,8,1
+- Chlorine (17 electrons): 2,8,7
+
+The electrons in the outermost shell are called valence electrons. These are the electrons involved in chemical bonding and determine an element's chemical properties. Elements with the same number of valence electrons often have similar chemical properties.
+
+THE PERIODIC TABLE
+
+The periodic table is an organized arrangement of all known elements, ordered by increasing atomic number. Elements are arranged in horizontal rows called periods and vertical columns called groups.
+
+Elements in the same group (vertical column) have the same number of valence electrons and therefore similar chemical properties. For example:
+- Group 1 (alkali metals): 1 valence electron, very reactive metals
+- Group 7 (halogens): 7 valence electrons, very reactive non-metals
+- Group 0/8 (noble gases): full outer shell, very unreactive
+
+Elements in the same period (horizontal row) have the same number of electron shells. For example, all elements in Period 3 have three electron shells.
+
+METALS, NON-METALS, AND METALLOIDS
+
+The periodic table can be divided into metals, non-metals, and metalloids based on physical and chemical properties.
+
+Metals are found on the left side and center of the periodic table. They typically:
+- Have high melting and boiling points
+- Are good conductors of heat and electricity
+- Are malleable (can be hammered into shape) and ductile (can be drawn into wires)
+- Have a shiny, lustrous appearance
+- Form positive ions by losing electrons
+- React with acids to produce hydrogen gas
+
+Non-metals are found on the right side of the periodic table. They typically:
+- Have low melting and boiling points (many are gases at room temperature)
+- Are poor conductors of heat and electricity (insulators)
+- Are brittle when solid
+- Have a dull appearance
+- Form negative ions by gaining electrons
+- Do not react with acids
+
+Metalloids (or semi-metals) have properties intermediate between metals and non-metals. Examples include silicon and germanium, which are semiconductors used in electronic devices.
+
+IONS
+
+Ions are charged particles formed when atoms lose or gain electrons. When an atom loses electrons, it becomes a positively charged ion called a cation. When an atom gains electrons, it becomes a negatively charged ion called an anion.
+
+Metal atoms tend to lose electrons to form cations. For example:
+- Sodium (2,8,1) loses 1 electron to form Na⁺ (2,8)
+- Magnesium (2,8,2) loses 2 electrons to form Mg²⁺ (2,8)
+- Aluminum (2,8,3) loses 3 electrons to form Al³⁺ (2,8)
+
+Non-metal atoms tend to gain electrons to form anions. For example:
+- Chlorine (2,8,7) gains 1 electron to form Cl⁻ (2,8,8)
+- Oxygen (2,6) gains 2 electrons to form O²⁻ (2,8)
+
+Atoms form ions to achieve a stable electron configuration, usually with a full outer shell like the noble gases. This is known as the octet rule.
+
+CHEMICAL BONDING BASICS
+
+The arrangement of electrons, particularly valence electrons, determines how atoms bond together to form compounds. There are three main types of chemical bonds:
+
+Ionic bonding occurs between metals and non-metals. Metal atoms lose electrons to form positive ions, while non-metal atoms gain electrons to form negative ions. The oppositely charged ions attract each other, forming ionic compounds. For example, sodium chloride (NaCl) forms when sodium atoms transfer electrons to chlorine atoms.
+
+Covalent bonding occurs between non-metal atoms. Atoms share pairs of electrons to achieve full outer shells. For example, in a water molecule (H₂O), oxygen shares electrons with two hydrogen atoms.
+
+Metallic bonding occurs between metal atoms. Metal atoms lose their valence electrons, which become delocalized and move freely throughout the structure, creating a "sea of electrons" that holds the metal ions together.
+
+RELATIVE ATOMIC MASS AND RELATIVE FORMULA MASS
+
+The relative atomic mass (Ar) of an element is the weighted average mass of its atoms compared to 1/12th the mass of a carbon-12 atom. It takes into account the different isotopes and their abundances.
+
+The relative formula mass (Mr) of a compound is the sum of the relative atomic masses of all atoms in its formula. For example, the relative formula mass of water (H₂O) is:
+Mr = (2 × 1) + (1 × 16) = 18
+
+These values are essential for calculations involving amounts of substances in chemistry, particularly when working with moles and chemical equations.
+
+EXAM TIPS
+
+When answering questions about atomic structure:
+1. Always show your working for calculations involving mass number, atomic number, and neutrons
+2. Remember that electrons have negligible mass - don't include them in mass number calculations
+3. Draw clear diagrams of atomic structure with the nucleus in the center and electrons in shells
+4. Use the periodic table to find atomic numbers and relative atomic masses
+5. For isotope questions, remember that isotopes have the same number of protons but different numbers of neutrons
+6. When writing electron configurations, fill shells from the inside out
+7. Understand that chemical properties depend on electron arrangement, especially valence electrons

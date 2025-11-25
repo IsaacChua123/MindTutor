@@ -1,0 +1,167 @@
+CELLS AND ORGANIZATION
+
+INTRODUCTION TO CELLS
+
+Cells are the basic building blocks of all living organisms. The cell theory, one of the fundamental principles of biology, states that:
+1. All living organisms are composed of one or more cells
+2. The cell is the basic unit of structure and function in organisms
+3. All cells come from pre-existing cells through cell division
+
+Organisms can be unicellular (made of a single cell, like bacteria and amoeba) or multicellular (made of many cells, like humans, plants, and animals). Even though unicellular organisms consist of just one cell, that cell must carry out all the functions necessary for life.
+
+Cells are incredibly small - most cells are between 10 and 100 micrometers in diameter, which is why we need microscopes to see them. The small size of cells is important because it allows for efficient exchange of materials between the cell and its environment.
+
+ANIMAL CELLS
+
+Animal cells are eukaryotic cells, meaning they have a true nucleus and membrane-bound organelles. The main structures in an animal cell include:
+
+The nucleus is the control center of the cell. It contains genetic material (DNA) organized into chromosomes. The nucleus controls all the cell's activities by controlling which proteins are made. It is surrounded by a nuclear membrane with pores that allow substances to move in and out.
+
+The cell membrane (also called the plasma membrane) is a thin, flexible barrier that surrounds the cell. It controls what enters and leaves the cell, allowing useful substances in and waste products out. The cell membrane is selectively permeable, meaning it allows some substances through but not others.
+
+The cytoplasm is a jelly-like substance that fills the cell. It is where most chemical reactions take place. The cytoplasm contains water, dissolved nutrients, and various organelles suspended in it.
+
+Mitochondria (singular: mitochondrion) are the powerhouses of the cell. They carry out aerobic respiration, releasing energy from glucose to produce ATP (adenosine triphosphate), which is the cell's energy currency. Cells that require lots of energy, like muscle cells, contain many mitochondria.
+
+Ribosomes are tiny structures where protein synthesis occurs. They can be found floating freely in the cytoplasm or attached to the endoplasmic reticulum. Ribosomes read the genetic code from messenger RNA and assemble amino acids into proteins.
+
+PLANT CELLS
+
+Plant cells are also eukaryotic and contain all the structures found in animal cells, plus some additional features:
+
+The cell wall is a rigid structure made of cellulose that surrounds the cell membrane. It provides structural support and protection, helping the plant maintain its shape. Unlike the cell membrane, the cell wall is fully permeable, allowing all substances to pass through.
+
+Chloroplasts are organelles that carry out photosynthesis. They contain chlorophyll, a green pigment that absorbs light energy. Chloroplasts are found in the green parts of plants, particularly in leaf cells. They convert light energy, carbon dioxide, and water into glucose and oxygen.
+
+The permanent vacuole is a large, fluid-filled space surrounded by a membrane. It contains cell sap (a solution of sugars, salts, and other substances). The vacuole helps maintain the cell's shape by keeping it rigid (turgid) and stores various substances.
+
+BACTERIAL CELLS
+
+Bacterial cells are prokaryotic cells, which are much simpler than eukaryotic cells. They lack a true nucleus and membrane-bound organelles. Key features include:
+
+- Genetic material (DNA) is found in a single circular chromosome floating freely in the cytoplasm, not enclosed in a nucleus
+- A cell wall made of peptidoglycan (not cellulose like plants)
+- A cell membrane inside the cell wall
+- Cytoplasm containing ribosomes (smaller than eukaryotic ribosomes)
+- Some bacteria have additional features like plasmids (small circular DNA molecules), flagella (tail-like structures for movement), and a capsule (protective slime layer)
+
+Bacterial cells are typically much smaller than eukaryotic cells, usually 1-10 micrometers in length.
+
+SPECIALIZED CELLS
+
+In multicellular organisms, cells become specialized to perform specific functions. This is called cell differentiation. Examples of specialized cells include:
+
+Red blood cells (erythrocytes) are specialized for transporting oxygen. They have a biconcave disc shape that increases surface area for oxygen absorption, contain hemoglobin (a protein that binds oxygen), and lack a nucleus to maximize space for hemoglobin.
+
+Nerve cells (neurons) are specialized for transmitting electrical impulses. They have a long axon to carry signals over long distances, many dendrites to receive signals from other neurons, and are covered in a myelin sheath that insulates the axon and speeds up signal transmission.
+
+Muscle cells are specialized for contraction. They contain many mitochondria to provide energy for contraction, have special proteins (actin and myosin) that slide past each other to cause contraction, and can be very long to allow for greater contraction.
+
+Root hair cells are specialized for absorbing water and minerals from soil. They have a long projection (root hair) that increases surface area for absorption, a large permanent vacuole to speed up water uptake by osmosis, and many mitochondria to provide energy for active transport of minerals.
+
+Sperm cells are specialized for fertilization. They have a tail (flagellum) for swimming, many mitochondria in the middle section to provide energy for movement, an acrosome containing enzymes to digest through the egg membrane, and a streamlined head to aid movement.
+
+Egg cells (ova) are specialized for being fertilized and supporting early development. They are large and contain lots of cytoplasm with nutrients for the developing embryo, have a special cell membrane that changes after fertilization to prevent other sperm entering, and contain half the genetic information needed for a new organism.
+
+LEVELS OF ORGANIZATION
+
+In multicellular organisms, cells are organized into increasingly complex structures:
+
+Cells are the basic units of life. Similar cells working together form tissues.
+
+Tissues are groups of similar cells working together to perform a specific function. Examples include:
+- Epithelial tissue: covers body surfaces and lines organs
+- Muscle tissue: contracts to produce movement
+- Nervous tissue: transmits electrical signals
+- Connective tissue: provides support and connects other tissues
+
+Organs are structures made of different tissues working together to perform a specific function. Examples include:
+- The heart (made of muscle tissue, nervous tissue, and epithelial tissue)
+- The stomach (made of muscle tissue, epithelial tissue, and glandular tissue)
+- Leaves (made of epidermis, mesophyll, and vascular tissue)
+
+Organ systems are groups of organs working together to perform a major function. Examples include:
+- Digestive system: breaks down food and absorbs nutrients
+- Circulatory system: transports substances around the body
+- Respiratory system: exchanges oxygen and carbon dioxide
+- Nervous system: coordinates responses to stimuli
+
+The organism is the complete living thing, made up of all its organ systems working together.
+
+MICROSCOPY
+
+Microscopes are essential tools for studying cells. There are two main types:
+
+Light microscopes use light and lenses to magnify specimens up to about 2000 times. They can be used to view living specimens and are relatively inexpensive. However, they have limited resolution (ability to distinguish between two points that are close together).
+
+Electron microscopes use beams of electrons instead of light and can magnify specimens up to 2,000,000 times. They have much higher resolution than light microscopes, allowing us to see internal structures of cells in great detail. However, specimens must be dead, and electron microscopes are very expensive.
+
+Magnification is how many times larger an image appears compared to the actual object. It is calculated using:
+
+Magnification = size of image ÷ size of actual object
+
+When using microscopes, it's important to understand the difference between magnification and resolution. Magnification makes things appear larger, while resolution is the ability to distinguish between two separate points.
+
+CELL DIVISION - MITOSIS
+
+Mitosis is the process by which a cell divides to produce two identical daughter cells. It is used for growth, repair, and asexual reproduction. The process occurs in several stages:
+
+Interphase (not technically part of mitosis): The cell grows, organelles are replicated, and DNA is copied so there are two identical sets of chromosomes.
+
+Prophase: Chromosomes condense and become visible. The nuclear membrane breaks down.
+
+Metaphase: Chromosomes line up along the center of the cell.
+
+Anaphase: Chromosome copies are pulled apart to opposite ends of the cell.
+
+Telophase: Nuclear membranes form around each set of chromosomes. The cytoplasm divides (cytokinesis), producing two identical daughter cells.
+
+Each daughter cell receives an exact copy of the parent cell's genetic information, making them genetically identical to the parent cell and to each other.
+
+DIFFUSION
+
+Diffusion is the net movement of particles from an area of high concentration to an area of low concentration (down a concentration gradient). It is a passive process, meaning it doesn't require energy from the cell.
+
+Diffusion continues until particles are evenly distributed (equilibrium is reached). Factors that affect the rate of diffusion include:
+- Concentration gradient: steeper gradient = faster diffusion
+- Temperature: higher temperature = faster diffusion
+- Surface area: larger surface area = faster diffusion
+- Distance: shorter distance = faster diffusion
+
+Examples of diffusion in living organisms:
+- Oxygen diffusing from alveoli into blood capillaries
+- Carbon dioxide diffusing from cells into blood
+- Digested food molecules diffusing from the small intestine into blood
+
+OSMOSIS
+
+Osmosis is the net movement of water molecules from an area of high water concentration (dilute solution) to an area of low water concentration (concentrated solution) through a partially permeable membrane. Like diffusion, osmosis is a passive process.
+
+In plant cells:
+- If placed in pure water, water enters by osmosis, the cell becomes turgid (swollen and firm)
+- If placed in a concentrated solution, water leaves by osmosis, the cell becomes plasmolysed (cytoplasm shrinks away from cell wall)
+
+In animal cells:
+- If placed in pure water, water enters by osmosis, the cell may burst (lysis)
+- If placed in a concentrated solution, water leaves by osmosis, the cell shrinks (crenation)
+
+ACTIVE TRANSPORT
+
+Active transport is the movement of substances from an area of low concentration to an area of high concentration (against a concentration gradient). Unlike diffusion and osmosis, active transport requires energy from respiration.
+
+Active transport is important for:
+- Absorbing minerals from soil into root hair cells (minerals are often more concentrated inside the cell)
+- Absorbing glucose from the small intestine when glucose concentration is higher in the blood than in the intestine
+- Allowing nerve cells to maintain concentration gradients of sodium and potassium ions
+
+EXAM TIPS
+
+When answering questions about cells:
+1. Draw clear, labeled diagrams of cells with straight label lines
+2. Remember the differences between animal, plant, and bacterial cells
+3. For magnification calculations, ensure all measurements are in the same units
+4. Understand the difference between diffusion, osmosis, and active transport
+5. When describing specialized cells, link structure to function
+6. For levels of organization, remember the sequence: cells → tissues → organs → organ systems → organism
+7. In osmosis questions, identify which direction water will move based on concentration
+8. Remember that plant cells have cell walls so they don't burst in pure water, unlike animal cells

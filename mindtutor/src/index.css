@@ -1,0 +1,311 @@
+@import 'tailwindcss';
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&family=Space+Grotesk:wght@400;500;600;700&display=swap');
+
+/* MindTutor 2025 - Modern Design System */
+
+@layer base {
+  :root {
+    /* Light Theme Colors */
+    --bg-primary: #f0f4ff;
+    --bg-secondary: #faf5ff;
+    --bg-accent: #f0f9ff;
+
+    --text-primary: #171717;
+    --text-secondary: #404040;
+    --text-muted: #737373;
+
+    --surface-primary: #f1f5f9; /* Clean light grey */
+    --surface-secondary: #e2e8f0; /* Balanced medium grey */
+    --surface-tertiary: #cbd5e1; /* Slightly darker grey */
+
+    --border-primary: rgba(0, 0, 0, 0.1);
+    --border-secondary: #ced4da;
+
+    --accent-primary: #6366f1;
+    --accent-secondary: #8b5cf6;
+    --accent-success: #10b981;
+    --accent-warning: #f59e0b;
+    --accent-error: #ef4444;
+
+    /* Glassmorphism */
+    --glass-bg: rgba(255, 255, 255, 0.8);
+    --glass-border: rgba(255, 255, 255, 0.2);
+    --glass-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.15);
+
+    /* Shadows */
+    --shadow-sm: 0 1px 2px 0 rgb(0 0 0 / 0.05);
+    --shadow-md: 0 4px 6px -1px rgb(0 0 0 / 0.1);
+    --shadow-lg: 0 10px 15px -3px rgb(0 0 0 / 0.1);
+    --shadow-xl: 0 20px 25px -5px rgb(0 0 0 / 0.1);
+    --shadow-2xl: 0 25px 50px -12px rgb(0 0 0 / 0.25);
+  }
+
+  .dark {
+    /* Dark Theme Colors */
+    --bg-primary: #1a1a2e;
+    --bg-secondary: #16213e;
+    --bg-accent: #0f3460;
+
+    --text-primary: #ffffff;
+    --text-secondary: #e5e5e5;
+    --text-muted: #b8b8b8;
+
+    --surface-primary: #2a2a2a; /* Dark with slight highlight */
+    --surface-secondary: #3a3a3a; /* A bit lighter */
+    --surface-tertiary: #4a4a4a; /* Even lighter for contrast */
+
+    --border-primary: rgba(255, 255, 255, 0.1);
+    --border-secondary: #555555;
+
+    --accent-primary: #818cf8;
+    --accent-secondary: #a855f7;
+    --accent-success: #22c55e;
+    --accent-warning: #f59e0b;
+    --accent-error: #ef4444;
+
+    /* Glassmorphism */
+    --glass-bg: rgba(42, 42, 42, 0.9);
+    --glass-border: rgba(255, 255, 255, 0.1);
+    --glass-shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.3);
+
+    /* Shadows */
+    --shadow-sm: 0 1px 2px 0 rgb(0 0 0 / 0.3);
+    --shadow-md: 0 4px 6px -1px rgb(0 0 0 / 0.4);
+    --shadow-lg: 0 10px 15px -3px rgb(0 0 0 / 0.4);
+    --shadow-xl: 0 20px 25px -5px rgb(0 0 0 / 0.4);
+    --shadow-2xl: 0 25px 50px -12px rgb(0 0 0 / 0.5);
+  }
+
+  @theme inline {
+    /* Colors */
+    --color-primary-50: var(--primary-50);
+    --color-primary-100: var(--primary-100);
+    --color-primary-200: var(--primary-200);
+    --color-primary-300: var(--primary-300);
+    --color-primary-400: var(--primary-400);
+    --color-primary-500: var(--primary-500);
+    --color-primary-600: var(--primary-600);
+    --color-primary-700: var(--primary-700);
+    --color-primary-800: var(--primary-800);
+    --color-primary-900: var(--primary-900);
+
+    --color-accent-purple: var(--accent-purple);
+    --color-accent-pink: var(--accent-pink);
+    --color-accent-blue: var(--accent-blue);
+    --color-accent-cyan: var(--accent-cyan);
+    --color-accent-green: var(--accent-green);
+
+    --color-success: var(--success);
+    --color-warning: var(--warning);
+    --color-error: var(--error);
+    --color-info: var(--info);
+  }
+
+  body {
+    font-family:
+      'Inter',
+      -apple-system,
+      BlinkMacSystemFont,
+      'Segoe UI',
+      'Roboto',
+      'Oxygen',
+      'Ubuntu',
+      'Cantarell',
+      'Fira Sans',
+      'Droid Sans',
+      'Helvetica Neue',
+      sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    min-height: 100vh;
+    transition: background-color 0.3s ease;
+  }
+
+  /* Light mode body background */
+  :root:not(.dark) body {
+    background: linear-gradient(135deg, #f0f4ff 0%, #faf5ff 50%, #f0f9ff 100%);
+  }
+
+  /* Dark mode body background */
+  .dark body {
+    background: linear-gradient(135deg, #1a1a2e 0%, #16213e 50%, #0f3460 100%);
+  }
+
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    font-family: 'Space Grotesk', 'Inter', sans-serif;
+    font-weight: 700;
+  }
+}
+
+/* Custom Utilities */
+@utility gradient-primary {
+  background-image: linear-gradient(
+    135deg,
+    var(--primary-600) 0%,
+    var(--accent-purple) 100%
+  );
+}
+
+@utility gradient-accent {
+  background-image: linear-gradient(
+    135deg,
+    var(--accent-pink) 0%,
+    var(--accent-purple) 50%,
+    var(--accent-blue) 100%
+  );
+}
+
+@utility gradient-success {
+  background-image: linear-gradient(
+    135deg,
+    var(--accent-cyan) 0%,
+    var(--accent-green) 100%
+  );
+}
+
+@utility glass-effect {
+  background-color: var(--glass-bg);
+  backdrop-filter: blur(10px);
+  border: 1px solid var(--glass-border);
+  box-shadow: var(--glass-shadow);
+}
+
+@utility text-gradient {
+  background-image: linear-gradient(
+    135deg,
+    var(--primary-600) 0%,
+    var(--accent-purple) 100%
+  );
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+/* Animations */
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(10px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes slideInRight {
+  from {
+    opacity: 0;
+    transform: translateX(20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateX(0);
+  }
+}
+
+@keyframes slideInLeft {
+  from {
+    opacity: 0;
+    transform: translateX(-20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateX(0);
+  }
+}
+
+@keyframes pulse {
+  0%,
+  100% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 0.5;
+  }
+}
+
+@keyframes bounce {
+  0%,
+  100% {
+    transform: translateY(-25%);
+    animation-timing-function: cubic-bezier(0.8, 0, 1, 1);
+  }
+  50% {
+    transform: translateY(0);
+    animation-timing-function: cubic-bezier(0, 0, 0.2, 1);
+  }
+}
+
+@utility animate-fade-in {
+  animation: fadeIn 0.5s ease-out;
+}
+
+@utility animate-slide-in-right {
+  animation: slideInRight 0.5s ease-out;
+}
+
+@utility animate-slide-in-left {
+  animation: slideInLeft 0.5s ease-out;
+}
+
+@utility animate-pulse {
+  animation: pulse 2s cubic-bezier(0.4, 0, 0.6, 1) infinite;
+}
+
+@utility animate-bounce {
+  animation: bounce 1s infinite;
+}
+
+/* Scrollbar Styling */
+@utility scrollbar-thin {
+  &::-webkit-scrollbar {
+    width: 8px;
+    height: 8px;
+  }
+
+  &::-webkit-scrollbar-track {
+    background: var(--surface-secondary);
+    border-radius: 4px;
+  }
+
+  &::-webkit-scrollbar-thumb {
+    background: var(--border-secondary);
+    border-radius: 4px;
+  }
+
+  &::-webkit-scrollbar-thumb:hover {
+    background: var(--text-muted);
+  }
+}
+
+/* Dark mode scrollbar styling */
+.dark .scrollbar-thin::-webkit-scrollbar-track {
+  background: var(--surface-secondary);
+}
+
+.dark .scrollbar-thin::-webkit-scrollbar-thumb {
+  background: var(--border-secondary);
+}
+
+.dark .scrollbar-thin::-webkit-scrollbar-thumb:hover {
+  background: var(--text-muted);
+}
+
+/* 3D Flip Animation for Flashcards */
+@utility transform-style-preserve-3d {
+  transform-style: preserve-3d;
+}
+
+@utility backface-hidden {
+  backface-visibility: hidden;
+}
+
+@utility rotate-y-180 {
+  transform: rotateY(180deg);
+}
