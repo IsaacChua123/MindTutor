@@ -1,8 +1,8 @@
 {
   "name": "mindtutor",
   "version": "1.0.0",
-  "private": true,
   "homepage": "https://IsaacChua123.github.io/MindTutor",
+  "private": true,
   "scripts": {
     "start": "vite",
     "build": "vite build",
