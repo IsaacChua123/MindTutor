@@ -4,7 +4,7 @@ import react from "@vitejs/plugin-react";
 export default defineConfig({
   plugins: [react()],
   base: "/MindTutor/",
-  root: ".",
+  root: "mindtutor",
   server: {
     port: 3000,
     host: true,
